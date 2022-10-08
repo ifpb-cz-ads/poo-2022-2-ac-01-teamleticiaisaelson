@@ -10,7 +10,7 @@ linha e na segunda linha aparecerá o time para o qual você torce.
     public static void main(String[] args)
     {
         
-        System.out.println("Leticia Estrela");
+        System.out.println("Leticia e Isaelson");
         System.out.println("Flamengo");
         
     }
