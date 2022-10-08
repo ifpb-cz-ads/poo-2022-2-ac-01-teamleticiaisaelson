@@ -6,7 +6,6 @@ linha e na segunda linha aparecerá o time para o qual você torce.
  */
  public class MyName
 {
-
     public static void main(String[] args)
     {
         
